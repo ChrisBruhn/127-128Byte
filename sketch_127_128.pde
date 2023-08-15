@@ -11,8 +11,10 @@ void draw() {
   count++;
   b++;
   if(count>256){
-  noLoop();
+  //noLoop();
   }
 }
-
 //Thepussyhunter
+//Louie
+//Rasmus
+
