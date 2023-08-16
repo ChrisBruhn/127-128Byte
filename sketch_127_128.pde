@@ -14,4 +14,3 @@ void draw() {
   noLoop();
   }
 }
-/Louie
